@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-30T09:09:06Z" name="Bank Application Test Suite" finished-at="2021-05-30T09:10:57Z" duration-ms="110852">
+    <groups>
+    </groups>
+    <test started-at="2021-05-30T09:09:06Z" name="Bank Application Test - CHROME" finished-at="2021-05-30T09:10:57Z" duration-ms="110852">
+      <class name="com.qa.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:16Z" name="setup" finished-at="2021-05-30T14:39:26Z" duration-ms="10801" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isBankNameInputBoxDisplayedTest()[pri:1, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:26Z" name="isBankNameInputBoxDisplayedTest" finished-at="2021-05-30T14:39:28Z" duration-ms="1750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isBankNameInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:28Z" name="tearDown" finished-at="2021-05-30T14:39:28Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:36Z" name="setup" finished-at="2021-05-30T14:39:45Z" duration-ms="9316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isBankIfscInputBoxDisplayedTest()[pri:2, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:45Z" name="isBankIfscInputBoxDisplayedTest" finished-at="2021-05-30T14:39:47Z" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isBankIfscInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:47Z" name="tearDown" finished-at="2021-05-30T14:39:47Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:39:57Z" name="setup" finished-at="2021-05-30T14:40:07Z" duration-ms="9971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isBankAccountNoInputBoxDisplayedTest()[pri:3, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:07Z" name="isBankAccountNoInputBoxDisplayedTest" finished-at="2021-05-30T14:40:08Z" duration-ms="1672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isBankAccountNoInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:08Z" name="tearDown" finished-at="2021-05-30T14:40:08Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:15Z" name="setup" finished-at="2021-05-30T14:40:29Z" duration-ms="13841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isBankAccountHolderNameInputBoxDisplayedTest()[pri:4, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:29Z" name="isBankAccountHolderNameInputBoxDisplayedTest" finished-at="2021-05-30T14:40:31Z" duration-ms="1678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isBankAccountHolderNameInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:31Z" name="tearDown" finished-at="2021-05-30T14:40:31Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:37Z" name="setup" finished-at="2021-05-30T14:40:48Z" duration-ms="11035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="isSubmitKycBtnDisplayedTest()[pri:5, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:48Z" name="isSubmitKycBtnDisplayedTest" finished-at="2021-05-30T14:40:50Z" duration-ms="1710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isSubmitKycBtnDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.HomePageTest@1757cd72]" started-at="2021-05-30T14:40:50Z" name="tearDown" finished-at="2021-05-30T14:40:50Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.HomePageTest -->
+      <class name="com.qa.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:06Z" name="setUp" finished-at="2021-05-30T14:39:15Z" duration-ms="9363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isUserNameInputBoxDisplayedTest()[pri:1, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:15Z" name="isUserNameInputBoxDisplayedTest" finished-at="2021-05-30T14:39:15Z" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isUserNameInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:15Z" name="tearDown" finished-at="2021-05-30T14:39:16Z" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:28Z" name="setUp" finished-at="2021-05-30T14:39:36Z" duration-ms="7653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isPasswordInputBoxDisplayedTest()[pri:2, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:36Z" name="isPasswordInputBoxDisplayedTest" finished-at="2021-05-30T14:39:36Z" duration-ms="129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isPasswordInputBoxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:36Z" name="tearDown" finished-at="2021-05-30T14:39:36Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:47Z" name="setUp" finished-at="2021-05-30T14:39:56Z" duration-ms="9211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isCheckMeOutCheckboxDisplayedTest()[pri:3, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:56Z" name="isCheckMeOutCheckboxDisplayedTest" finished-at="2021-05-30T14:39:57Z" duration-ms="92" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isCheckMeOutCheckboxDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:39:57Z" name="tearDown" finished-at="2021-05-30T14:39:57Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:08Z" name="setUp" finished-at="2021-05-30T14:40:15Z" duration-ms="6567" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isLoginbtnDisplayedTest()[pri:4, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:15Z" name="isLoginbtnDisplayedTest" finished-at="2021-05-30T14:40:15Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLoginbtnDisplayedTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:15Z" name="tearDown" finished-at="2021-05-30T14:40:15Z" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:31Z" name="setUp" finished-at="2021-05-30T14:40:37Z" duration-ms="6021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isLoginBtnDisabledUntilUserSelectsCheckboxTest()[pri:5, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:37Z" name="isLoginBtnDisabledUntilUserSelectsCheckboxTest" finished-at="2021-05-30T14:40:37Z" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLoginBtnDisabledUntilUserSelectsCheckboxTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:37Z" name="tearDown" finished-at="2021-05-30T14:40:37Z" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:50Z" name="setUp" finished-at="2021-05-30T14:40:56Z" duration-ms="6674" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="isLoginBtnEnabledAfterUserSelectsCheckboxTest()[pri:6, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:56Z" name="isLoginBtnEnabledAfterUserSelectsCheckboxTest" finished-at="2021-05-30T14:40:57Z" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isLoginBtnEnabledAfterUserSelectsCheckboxTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.LoginPageTest@2e377400]" started-at="2021-05-30T14:40:57Z" name="tearDown" finished-at="2021-05-30T14:40:57Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.LoginPageTest -->
+    </test> <!-- Bank Application Test - CHROME -->
+  </suite> <!-- Bank Application Test Suite -->
+</testng-results>

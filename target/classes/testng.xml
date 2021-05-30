@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Bank Application Test Suite" verbose="3">
+	<test name="Bank Application Test - CHROME">
+
+		<classes>
+			<class name="com.qa.tests.LoginPageTest"/>
+			<class name="com.qa.tests.HomePageTest"/>
+		</classes>
+	</test>
+
+
+
+</suite>
